@@ -9,3 +9,10 @@ La propuesta hasta el momento es usar React para el frontend, NodeJS para el bac
 ## 2 - Configura el back-end de tu tienda online 2.0 con NestJs. | UtilAPIs
 - Video: https://youtu.be/6YrhGiAJVLc
 - Código: https://github.com/utilapis/webstore2/tree/feature/01-ConfiguraElBackendDeTuTiendaOnline2ConNestJs
+
+## 3 - Sube el código de tu tienda online 2.0 a GitHub. | UtilAPIs
+- Video: https://youtu.be/KNkXq9MF5Ts
+
+## 4 - Configura el front-end de tu tienda online 2.0 con React. | UtilAPIs
+- Video: https://youtu.be/ew3nUsEXQNA
+- Código: https://github.com/utilapis/webstore2/tree/feature/04-ConfiguraElFrontendDeTuTiendaOnline2ConReact
