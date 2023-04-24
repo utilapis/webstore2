@@ -16,3 +16,10 @@ La propuesta hasta el momento es usar React para el frontend, NodeJS para el bac
 ## 4 - Configura el front-end de tu tienda online 2.0 con React. | UtilAPIs
 - Video: https://youtu.be/ew3nUsEXQNA
 - Código: https://github.com/utilapis/webstore2/tree/feature/04-ConfiguraElFrontendDeTuTiendaOnline2ConReact
+
+## 5 - Sube el código de tu tienda online 2.0 a GitHub. | UtilAPIs
+- Video: https://youtu.be/hvJ48GZUMmo
+
+## 6 - Conecta el front-end y back-end de tu tienda online 2.0. | UtilAPIs
+- Video: https://youtu.be/Ag4B0mbKKcg
+- Código: https://github.com/utilapis/webstore2/tree/feature/06-ConectaElFrontendYBackendDeTuTiendaOnline2
